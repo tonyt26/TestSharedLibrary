@@ -1,3 +1,5 @@
+library 'SharedLib@master'
+
 pipeline {
     agent any
     stages {
